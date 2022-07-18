@@ -1,6 +1,6 @@
 # Django Local Library
 <h1>LIVE AT </h1>
-<a>https://stormy-sierra-86530.herokuapp.com/catalog/</a>
+<a href="https://stormy-sierra-86530.herokuapp.com/catalog/">GO LIVE</a>
 Tutorial "Local Library" website written in Django.
 
 For detailed information about this project see the associated [MDN tutorial home page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website).
